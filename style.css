@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: inherit;
+    text-decoration: none;
+    
+}
+body{
+    background-color: black;
+}
+
+.static1 ol{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+}
+nav{
+    display:flex ;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+ul{
+    display: flex;
+    margin-left: 163px;
+    gap: 43px;
+    color: #FFFFFF;
+    align-items: center;
+}
+.rasm{
+    background-image: url('./fayl/Rectangle\ 2\ \(6\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height:594px  ;
+    padding-top:37px ;
+}
+.position1{
+    font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+color: #000000;
+
+}
+.position{
+    width: 602px;
+    text-align: center;
+    margin: 0 auto;
+    
+height: 75px;
+top: 206px;
+left: 455px;
+border-radius: 30px;
+background: #FFFFFF;
+box-shadow: 16px 18px 28px 0px #FFFFFF40;
+margin-bottom: 180px;
+
+}
+.box1{
+    width: 237px;
+height: 209px;
+opacity: 0px;
+background: #32FB00;
+box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+position: relative;
+
+}
+.box1 p{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+padding-top: 146px;
+color: #FF0606;
+
+}
+.box2{
+    width: 237px;
+height: 209px;
+top: 362px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+background: #F70101;
+box-shadow: 0px 18px 26.5px 0px #FB000040;
+position: absolute;
+top: 280px;
+
+left: 119px;
+
+}
+.box2 p{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;
+    padding-top: 90px;
+  color: #FFFFFF;
+  align-items: center;
+    text-shadow: 0px 4px 7.4px  #FFFFFF;
+     
+}
+.box{
+    display: flex;
+    
+}
+.rela{
+    width: 237px;
+height: 209px;
+background: #32FB00;
+box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+margin-left: 271px;
+position: relative;
+
+}
+.rela p{
+    font-family: Inter;
+font-size: 24px;
+padding-top: 146px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: #FF0606;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+}
+.abso{
+    width: 411px;
+height: 209px;
+top: 362px;
+left: 504px;
+gap: 0px;
+border-radius: 100px ;
+opacity: 0px;
+background: #F70101;
+box-shadow: 0px 18px 26.5px 0px #FB000040;
+position: absolute;
+top: 280px;
+
+left:420px;
+
+}
+.abso p{
+    font-family: Inter;
+    padding-top: 84px;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+}
+.rela1{
+    width: 237px;
+height: 209px;
+top: 466px;
+left: 1102px;
+gap: 0px;
+opacity: 0px;
+background: #32FB00;
+box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+margin-left: 270px;
+
+
+}
+.rela1 p{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+padding-top: 146px;
+line-height: 29.05px;
+text-align: center;
+color: #FF0606;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+}
+.abso1{
+    width: 237px;
+height: 209px;
+background: #F70101;
+box-shadow: 0px 18px 26.5px 0px #FB000040;
+position: absolute;
+top: 280px;
+left: 910px;
+
+
+}
+.abso1 p{
+    font-family: Inter;
+font-size: 24px;
+padding-top: 84px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+}
+.Information1{
+    width: 602px;
+height: 75px;
+top: 842px;
+left: 456px;
+border-radius: 30px ;
+background: #FFFFFF;
+box-shadow: 16px 18px 28px 0px #FFFFFF40;
+margin: 0 auto;
+
+
+}
+.Information1 p{
+    font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+color: #000000;
+
+
+    
+}
+.static2{
+    width: 368px;
+height: 332px;
+top: 1044px;
+left: 87px;
+gap: 0px;
+opacity: 0px;
+background: #7B2525;
+
+}
+.s1{
+    font-family: Inter;
+    margin-top: 50px;
+    margin-bottom: 68px;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+text-align: center;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+
+}
+.s2{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: center;
+
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    gap: 104px;
+    margin-top: 127px;
+    margin-bottom: 106px;
+}
+.nomi{
+    width: 312px;
+height: 193px;
+top: 1161px;
+left: 999px;
+gap: 0px;
+opacity: 0px;
+text-align: center;
+margin: 29px;
+margin-top: -30px;
+
+
+}
